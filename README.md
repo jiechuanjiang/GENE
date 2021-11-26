@@ -7,7 +7,7 @@ This is an improved version of [GENE](https://z0ngqing.github.io/paper/aaai-jiec
 We test GENE in the sparse-reward maze task, where the agent learns to reach the landmark. The results are shown in the Figure 1.
 
 
-<img src="maze1.png" alt="maze" width="300">
+<img src="success_rate.png" alt="maze" width="300">
 
 
 
