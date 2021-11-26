@@ -9,7 +9,9 @@ We test GENE in the sparse-reward maze task, where the agent learns to reach the
 
 <img src="success_rate.png" alt="maze" width="400">
 
+The distribution of generated states during the training:
 
+<img src="generated_states.gif" alt="s" width="400">
 
 ## Citation 
 If you are using the codes, please cite our paper.
