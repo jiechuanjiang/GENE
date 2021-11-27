@@ -13,6 +13,8 @@ The distribution of generated states during the training:
 
 <img src="generated_states.gif" alt="s" width="400">
 
+<img src="generated_states_1.gif" alt="s1" width="400">
+
 ## Citation 
 If you are using the codes, please cite our paper.
 
